@@ -5,7 +5,7 @@ const Home = () => {
     <div className="flex flex-col items-center justify-center background text-txt pt-20">
       {/* Header */}
       <header className="text-center">
-        <h1 className="text-2xl md:text-4xl font-bold mb-4">Welcome to Trackit</h1>
+        <h1 className="text-2xl md:text-4xl font-bold mb-4">Welcome to FinHandle</h1>
         <p className="md:text-lg text-txt-depressed mb-8">Simplify your financial tracking with ease</p>
       </header>
       

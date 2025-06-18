@@ -107,3 +107,5 @@ cd FinHandle
 ## Usage
 
 Once both the backend and frontend servers are running, open your web browser and navigate to `http://localhost:5173`. You can then register a new user or log in with existing credentials to start managing your finances.
+
+
